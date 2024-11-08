@@ -1,4 +1,4 @@
-Template project page
+# KIOST-SST-EVL
 ===
 [[Preprint](https://sstdv-project.github.io/template-project-page/static/pdfs/sample.pdf)]
 [[Supplementary](https://sstdv-project.github.io/template-project-page/static/pdfs/sample.pdf)]
